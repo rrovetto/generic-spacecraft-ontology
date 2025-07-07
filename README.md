@@ -1,4 +1,5 @@
-# The Generic Spacecraft Ontology  (The Foundational / Upper-level / Top-level Spacecraft Ontology & Taxonomy)
+# The Generic Spacecraft Ontology  
+(The Foundational / Upper-level / Top-level Spacecraft Ontology & Taxonomy)
 
 This is an _abstraction model_ (ontology, conceptual model) at the highest relative degree of abstraction capable of categorizing all types of spacecraft.
 It offers a high-level taxonomy of generic spacecraft categories, and associated defined terminology. The Top-level/Upper/Generic/Foundational Spacecraft Ontology is a computable knowledge representation serving as a top-level taxonomy and ontology for lower-level or more specialized spacecraft models and categories. 
